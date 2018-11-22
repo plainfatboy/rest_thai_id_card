@@ -6,9 +6,9 @@ This project is reimplemented to read information from Thai national ID card by 
 This project has been tested on Windows 10. In addition, it has been implemented with Python 3.7.
 
 Refs:
-1. Flask: http://flask.pocoo.org/docs/1.0/quickstart/#quickstart
-2. ADPU commands: https://github.com/chakphanu/ThaiNationalIDCard/blob/master/APDU.md
-3. Python example: https://freeshell.de/~jirawat/blog/?p=69
+ - Flask: http://flask.pocoo.org/docs/1.0/quickstart/#quickstart
+ - ADPU commands: https://github.com/chakphanu/ThaiNationalIDCard/blob/master/APDU.md
+ - Python example: https://freeshell.de/~jirawat/blog/?p=69
 
 Dependencies:
 flask
@@ -31,6 +31,9 @@ run run.bat in CMD for serving REST server
 Contact me via email (wasuwatp18@gmail.com)
 
 I hope my code contribute to something new.
+
 Cheers,
+
 PlainFatBoy
+
 Asura Dev Team
