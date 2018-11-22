@@ -280,7 +280,7 @@ def get_data():
         'address':resultlist[5],
         'issueexpire':resultlist[6]
     }
-    return json.dumps(resultdict)
+    return Response(json.dumps(resultdict), mimetype='application/json')
 #End get_data
 
 #Start get_photo
@@ -397,6 +397,5 @@ def get_photo_json():
         'photo':photobytearray
     }
 
-    return json.dumps(resultdict)
-
+    return Response(json.dumps(resultdict), mimetype='application/json')
 #End get_photo
