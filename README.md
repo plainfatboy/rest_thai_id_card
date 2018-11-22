@@ -5,6 +5,10 @@ This project is reimplemented to read information from Thai national ID card by 
 ผมทดลองCodeของผมบน Windows 10 และใช้ python 3.7
 This project has been tested on Windows 10. In addition, it has been implemented with Python 3.7.
 
+Smartcard reader: https://online.advice.co.th/product/barcode-product/scanner/barcode-scanner-smart-card-reader-scr-n3300-
+
+หาก Advice เห็นว่า Code ส่งเสริมการขายของคุณ ส่งของเล่นสนุกๆมาให้ผมบ้างก็ดีนะครับ :D
+
 Refs:
  - Flask: http://flask.pocoo.org/docs/1.0/quickstart/#quickstart
  - ADPU commands: https://github.com/chakphanu/ThaiNationalIDCard/blob/master/APDU.md
