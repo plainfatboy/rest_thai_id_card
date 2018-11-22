@@ -1,4 +1,4 @@
-# rest_thai_id_card
+# REST server for fetching information from Thai national ID card
 สร้าง REST server เพื่ออ่านค่าจากบัตรประชาชนไทย โดยใช้ Python 3.x
 This project is reimplemented to read information from Thai national ID card by using Python 3.x.
 
