@@ -2,7 +2,7 @@
 สร้าง REST server เพื่ออ่านค่าจากบัตรประชาชนไทย โดยใช้ Python 3.x
 This project is reimplemented to read information from Thai national ID card by using Python 3.x.
 
-ผมทดลองCodeของผมบน Windows 10 และใช้ python 3.7
+ผมทดลองCodeของผมบน Windows 10 และใช้ Python 3.7
 This project has been tested on Windows 10. In addition, it has been implemented with Python 3.7.
 
 Smartcard reader: https://online.advice.co.th/product/barcode-product/scanner/barcode-scanner-smart-card-reader-scr-n3300-
