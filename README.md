@@ -15,9 +15,9 @@ Refs:
  - Python example: https://freeshell.de/~jirawat/blog/?p=69
 
 Dependencies:
-flask
-flask_cors
-pyscard
+ - flask
+ - flask_cors
+ - pyscard
 
 Quick guide:
 1. main.py ใช้เพื่อดึงข้อมูลและรูปภาพและเขียนลงบน photo.jpeg และ temp.txt
